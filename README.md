@@ -49,3 +49,7 @@ src/
 │── Greeting.js
 │── Profil.j
 ```
+<img width="954" height="628" alt="Screenshot 2026-03-22 043650" src="https://github.com/user-attachments/assets/787e776d-daaf-4eda-85d4-5e8d9a178b68" />
+
+<img width="671" height="268" alt="Screenshot 2026-03-22 043749" src="https://github.com/user-attachments/assets/c8f1402c-4572-41d2-9ac5-d73703a11039" />
+
